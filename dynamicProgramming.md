@@ -3,15 +3,25 @@
 Starting on 29th september
 
 Progress:
+
 29th sept = 
+
 30th sept = 
+
 1st october = 
+
 2nd october = 
+
 3rd october = 
 
+
 Also complete the cses dp, 16/23 done till 29th sept morning
+
+
 complete this today and then the dp ladder
-ALL THE BEST BOY
+
+
+##ALL THE BEST BOY
 
 | Index | Problem | Difficulty | Solved | Comments |
 | --- | --- | --- | --- | --- |
